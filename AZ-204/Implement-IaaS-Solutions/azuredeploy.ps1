@@ -1,0 +1,1 @@
+New-AzResourceGroupDeployment -ResourceGroupName az204learn -TemplateFile ./azuredeploy.json -TemplateParameterFile ./azuredeploy.parameters.json

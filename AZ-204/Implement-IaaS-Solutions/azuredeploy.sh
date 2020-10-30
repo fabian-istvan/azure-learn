@@ -1,0 +1,1 @@
+az deployment group create --resource-group az204learn --template-file azuredeploy.json --parameters azuredeploy.parameters.json
